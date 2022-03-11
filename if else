@@ -1,0 +1,6 @@
+nilai = int(input('Masukkan nilai anda :'))
+print ('Nilai anda adalah : ', nilai , '\n')
+if nilai >= 70 :
+	print ('selamat, anda lulus!')
+else:
+	('maaf, anda tidak lulus!')

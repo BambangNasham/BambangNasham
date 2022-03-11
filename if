@@ -1,0 +1,4 @@
+
+nilai = 85
+if (nilai >= 80) :
+	print ("Nilai A")

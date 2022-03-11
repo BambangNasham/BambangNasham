@@ -1,0 +1,5 @@
+nilai = 50 
+if (nilai >= 60) :
+	print ("Lulus")
+else:
+	print ("TIDAK LULUS")
